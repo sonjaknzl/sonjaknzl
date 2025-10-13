@@ -24,8 +24,8 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### Some Of My Stats
-![](https://github-readme-stats.vercel.app/api?username=sonjaknzl&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sonjaknzl&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sonjaknzl&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false)<br/><br>
+![](https://nirzak-streak-stats.vercel.app/?user=sonjaknzl&theme=ambient_gradient&hide_border=true)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjaknzl&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### Some Trophies
