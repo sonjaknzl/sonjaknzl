@@ -29,23 +29,23 @@
 
 ### ✨ My Technology & Design Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%232C97FA?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%232E2E2E?style=for-the-badge&logo=javascript&logoColor=%23F7E018)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%23232B3A?style=for-the-badge&logo=react&logoColor=%2361DBFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%23334448?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%230A3D62?style=for-the-badge&logo=tailwind-css&logoColor=%2338BDF8)
-![Swift](https://img.shields.io/badge/Swift-%23F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%235C4BC9?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23B07219?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%234B8BBE?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![C#](https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=csharp&logoColor=%23239120)
+![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)
+![Swift](https://img.shields.io/badge/Swift-333333?style=for-the-badge&logo=swift&logoColor=%23F54A2A)
 <br>
-![Adobe CC](https://img.shields.io/badge/Adobe%20CC-%232B2B2B?style=for-the-badge&logo=adobecreativecloud&logoColor=%23DA1F26)
-![Figma](https://img.shields.io/badge/Figma-%232B2B2B?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
-![Canva](https://img.shields.io/badge/Canva-%232B2B2B?style=for-the-badge&logo=canva&logoColor=%2300C4CC)
-![Blender](https://img.shields.io/badge/Blender-%232B2B2B?style=for-the-badge&logo=blender&logoColor=%23F5792A)
-![Framer](https://img.shields.io/badge/Framer-%232B2B2B?style=for-the-badge&logo=framer&logoColor=%2361DAFB)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-333333?style=for-the-badge&logo=adobecreativecloud&logoColor=%23DA1F26)
+![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![Canva](https://img.shields.io/badge/Canva-333333?style=for-the-badge&logo=canva&logoColor=%2300C4CC)
+![Blender](https://img.shields.io/badge/Blender-333333?style=for-the-badge&logo=blender&logoColor=%23F5792A)
+![Framer](https://img.shields.io/badge/Framer-333333?style=for-the-badge&logo=framer&logoColor=%2361DAFB)
 
 
 ### Some Of My Stats
