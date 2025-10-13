@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Sonja!
 🔭 Software Engineer exploring and building across diverse tech stacks<br>⚡ Studied UX Design with a focus on software development and user-centered design<br>💬 Currently diving deeper into modern Frontend Technologies and creative coding<br>🌱 Passionate about sustainability and using technology to support environmental and social awareness
-
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonja-künzl-879aba172/?locale=en_US) 
 [![Website](https://img.shields.io/badge/Website-333333?logo=firefox&logoColor=white)]([https://yourwebsite.com](https://sonjakuenzl.framer.website))
 
