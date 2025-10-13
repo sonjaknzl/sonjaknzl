@@ -1,7 +1,8 @@
 # 💫 Hi, I'm Sonja!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonja-künzl-879aba172/?locale=en_US) 
-[![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=ecosia&logoColor=%23008009)]((https://sonjakuenzl.framer.website))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonja-künzl-879aba172/?locale=en_US)
+[![Website](https://img.shields.io/badge/Website-%23008009?style=for-the-badge&logo=ecosia&logoColor=white)](https://sonjakuenzl.framer.website)
 <br>
+
 
  
 
