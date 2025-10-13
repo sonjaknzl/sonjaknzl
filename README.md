@@ -12,7 +12,7 @@
 ### My Technology & Design Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/csswizardry-333333?style=for-the-badge&logo=css&logoColor=%23663399)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css&logoColor=%23663399)
 ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
@@ -23,7 +23,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)
 ![Swift](https://img.shields.io/badge/Swift-333333?style=for-the-badge&logo=swift&logoColor=%23F54A2A)
 <br>
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-333333?style=for-the-badge&logo=adobecreativecloud&logoColor=%23DA1F26)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-333333?style=for-the-badge&logo=internetcomputer&logoColor=%23DA1F26)
 ![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-333333?style=for-the-badge&logo=canva&logoColor=%2300C4CC)
 ![Blender](https://img.shields.io/badge/Blender-333333?style=for-the-badge&logo=blender&logoColor=%23F5792A)
