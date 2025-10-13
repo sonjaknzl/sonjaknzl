@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Sonja!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonja-künzl-879aba172/?locale=en_US)
-[![Website](https://img.shields.io/badge/Website-%23008009?style=for-the-badge&logoColor=white)](https://sonjakuenzl.framer.website)
+[![Website](https://img.shields.io/badge/Website-%238055c9?style=for-the-badge&logoColor=white)](https://sonjakuenzl.framer.website)
 <br>
 
 🔭 Software Engineer exploring and building across diverse tech stacks<br>
