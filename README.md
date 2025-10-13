@@ -30,14 +30,14 @@
 ### ✨ My Technology & Design Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![CSS3](https://img.shields.io/badge/css-333333?style=for-the-badge&logo=css3&logoColor=%23663399)
 ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
 ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![C#](https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=csharp&logoColor=%23239120)
+![C#](https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=c&logoColor=%23A8B9CC)
 ![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)
 ![Swift](https://img.shields.io/badge/Swift-333333?style=for-the-badge&logo=swift&logoColor=%23F54A2A)
 <br>
