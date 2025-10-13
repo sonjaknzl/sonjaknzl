@@ -1,11 +1,11 @@
 # 💫 Hi, I'm Sonja!
 🔭 Software Engineer exploring and building across diverse tech stacks<br>⚡ Studied UX Design with a focus on software development and user-centered design<br>💬 Currently diving deeper into modern Frontend Technologies and creative coding<br>🌱 Passionate about sustainability and using technology to support environmental and social awareness
 
-## 🔗 Links & Stuff
+### 🔗 Links & Stuff
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonja-künzl-879aba172/?locale=en_US) 
 [![Website](https://img.shields.io/badge/Website-333333?logo=firefox&logoColor=white)]([https://yourwebsite.com](https://sonjakuenzl.framer.website))
 
-## 💻 My Tech Stack:
+### 💻 My Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -19,17 +19,17 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 <br>
 
-## ✨ My Design Stack:
+### ✨ My Design Stack
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sonjaknzl&theme=ambient_gradientt&hide_border=true&include_all_commits=true&count_private=false)<br/>
+### 📊 My Stats
+![](https://github-readme-stats.vercel.app/api?username=sonjaknzl&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sonjaknzl&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjaknzl&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 My Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sonjaknzl&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
