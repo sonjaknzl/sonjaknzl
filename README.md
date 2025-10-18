@@ -6,7 +6,7 @@
 🔭 Software Engineer exploring and building across diverse tech stacks<br>
 ⚡ Studied UX Design with a focus on software development and user-centered design<br>
 💬 Currently diving deeper into modern Frontend Technologies and creative coding<br>
-🌱 Passionate about sustainability and using technology to support environmental and social awareness
+🌱 Passionate about sustainability and everything outdoors
 <br>
 
 ### My Technology & Design Stack
