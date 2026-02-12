@@ -35,5 +35,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sonjaknzl&theme=ambient_gradient&hide_border=true)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjaknzl&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### Some Trophies
-![](https://github-profile-trophy.vercel.app/?username=sonjaknzl&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
