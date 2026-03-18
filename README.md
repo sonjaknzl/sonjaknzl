@@ -16,10 +16,3 @@
 ![Canva](https://img.shields.io/badge/Canva-333333?style=for-the-badge&logo=canva&logoColor=%2300C4CC)
 ![Blender](https://img.shields.io/badge/Blender-333333?style=for-the-badge&logo=blender&logoColor=%23F5792A)
 ![Framer](https://img.shields.io/badge/Framer-333333?style=for-the-badge&logo=framer&logoColor=%2361DAFB)
-
-
-### Some Of My Stats
-![](https://github-readme-stats.vercel.app/api?username=sonjaknzl&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false)<br/><br>
-![](https://nirzak-streak-stats.vercel.app/?user=sonjaknzl&theme=ambient_gradient&hide_border=true)<br/><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjaknzl&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
